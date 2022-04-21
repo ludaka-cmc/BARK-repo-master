@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /images/
+
+Sitemap: https://reading.akc.org/sitemap.xml

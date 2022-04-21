@@ -1,0 +1,41 @@
+# Errors
+.phpunit.result.cache
+yarn-error.log
+
+# OS Specific
+.dev/
+.env
+.env.dusk.local
+Homestead.json
+Homestead.yaml
+/node_modules
+/.idea
+/.phpstorm.meta.php
+/_ide_helper.php
+/npm-debug.log
+.DS_Store
+
+# Public
+/public/css
+/public/fonts
+/public/hot
+/public/images
+/public/js
+/public/packages
+/public/storage
+/public/vendor
+/public/mix-manifest.json
+/public/react
+/public/img
+/public/favicons
+/public/svg
+
+# SVG Sprite
+/resources/views/common/svgstore.blade.php
+
+# Storage
+/storage/*.key
+/storage/sitemap*
+
+# Vendor
+/vendor

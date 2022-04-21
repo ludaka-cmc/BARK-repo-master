@@ -1,0 +1,41 @@
+version: '2'
+services:
+
+  # Application [PHP 7.2]
+  app:
+    build:
+      context: ./
+      dockerfile: .docker/app.dockerfile
+    working_dir: /var/www
+    volumes:
+      - ./:/var/www
+    environment:
+      - "DB_PORT=3306"
+      - "DB_HOST=database"
+
+  # Webserver [NGINX]
+  web:
+    build:
+      context: ./
+      dockerfile: .docker/web.dockerfile
+    working_dir: /var/www
+    volumes_from:
+      - app
+    ports:
+      - 80:80
+
+  # Database [MySQL]
+  database:
+    image: mysql:5.7
+    volumes:
+      - dbdata:/var/lib/mysql
+    environment:
+      - "MYSQL_DATABASE=barkdb"
+      - "MYSQL_USER=barkadmin"
+      - "MYSQL_PASSWORD=f1923f9fd8d102df444dbe5f78ddcd113891f356b627778b89513c5c081b74e4"
+      - "MYSQL_ROOT_PASSWORD=f1923f9fd8d102df444dbe5f78ddcd113891f356b627778b89513c5c081b74e4"
+    ports:
+        - "3309:3306"
+
+volumes:
+  dbdata:

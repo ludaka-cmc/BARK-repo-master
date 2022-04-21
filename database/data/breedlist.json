@@ -1,0 +1,2178 @@
+{
+    "affenpinscher": {
+      "id": 23195,
+      "breed_name": "affenpinscher",
+      "breed_name_display": "Affenpinscher",
+      "group": "toy",
+      "rank": 149,
+      "url": "https://akc.org/dog-breeds/affenpinscher/"
+    },
+    "afghan-hound": {
+      "id": 23209,
+      "breed_name": "afghan-hound",
+      "breed_name_display": "Afghan Hound",
+      "group": "hound",
+      "rank": 113,
+      "url": "https://akc.org/dog-breeds/afghan-hound/"
+    },
+    "airedale-terrier": {
+      "id": 23224,
+      "breed_name": "airedale-terrier",
+      "breed_name_display": "Airedale Terrier",
+      "group": "terrier",
+      "rank": 55,
+      "url": "https://akc.org/dog-breeds/airedale-terrier/"
+    },
+    "akita": {
+      "id": 23239,
+      "breed_name": "akita",
+      "breed_name_display": "Akita",
+      "group": "working",
+      "rank": 46,
+      "url": "https://akc.org/dog-breeds/akita/"
+    },
+    "alaskan-malamute": {
+      "id": 23249,
+      "breed_name": "alaskan-malamute",
+      "breed_name_display": "Alaskan Malamute",
+      "group": "working",
+      "rank": 59,
+      "url": "https://akc.org/dog-breeds/alaskan-malamute/"
+    },
+    "american-english-coonhound": {
+      "id": 23264,
+      "breed_name": "american-english-coonhound",
+      "breed_name_display": "American English Coonhound",
+      "group": "hound",
+      "rank": 170,
+      "url": "https://akc.org/dog-breeds/american-english-coonhound/"
+    },
+    "american-eskimo-dog": {
+      "id": 23278,
+      "breed_name": "american-eskimo-dog",
+      "breed_name_display": "American Eskimo Dog",
+      "group": "non-sporting",
+      "rank": 122,
+      "url": "https://akc.org/dog-breeds/american-eskimo-dog/"
+    },
+    "american-foxhound": {
+      "id": 23292,
+      "breed_name": "american-foxhound",
+      "breed_name_display": "American Foxhound",
+      "group": "hound",
+      "rank": 189,
+      "url": "https://akc.org/dog-breeds/american-foxhound/"
+    },
+    "american-hairless-terrier": {
+      "id": 23307,
+      "breed_name": "american-hairless-terrier",
+      "breed_name_display": "American Hairless Terrier",
+      "group": "terrier",
+      "rank": 106,
+      "url": "https://akc.org/dog-breeds/american-hairless-terrier/"
+    },
+    "american-leopard-hound": {
+      "id": 23322,
+      "breed_name": "american-leopard-hound",
+      "breed_name_display": "American Leopard Hound",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/american-leopard-hound/"
+    },
+    "american-staffordshire-terrier": {
+      "id": 23324,
+      "breed_name": "american-staffordshire-terrier",
+      "breed_name_display": "American Staffordshire Terrier",
+      "group": "terrier",
+      "rank": 81,
+      "url": "https://akc.org/dog-breeds/american-staffordshire-terrier/"
+    },
+    "american-water-spaniel": {
+      "id": 23339,
+      "breed_name": "american-water-spaniel",
+      "breed_name_display": "American Water Spaniel",
+      "group": "sporting",
+      "rank": 156,
+      "url": "https://akc.org/dog-breeds/american-water-spaniel/"
+    },
+    "anatolian-shepherd-dog": {
+      "id": 23354,
+      "breed_name": "anatolian-shepherd-dog",
+      "breed_name_display": "Anatolian Shepherd Dog",
+      "group": "working",
+      "rank": 84,
+      "url": "https://akc.org/dog-breeds/anatolian-shepherd-dog/"
+    },
+    "appenzeller-sennenhunde": {
+      "id": 23363,
+      "breed_name": "appenzeller-sennenhunde",
+      "breed_name_display": "Appenzeller Sennenhund",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/appenzeller-sennenhunde/"
+    },
+    "australian-cattle-dog": {
+      "id": 23364,
+      "breed_name": "australian-cattle-dog",
+      "breed_name_display": "Australian Cattle Dog",
+      "group": "herding",
+      "rank": 54,
+      "url": "https://akc.org/dog-breeds/australian-cattle-dog/"
+    },
+    "australian-kelpie": {
+      "id": 23377,
+      "breed_name": "australian-kelpie",
+      "breed_name_display": "Australian Kelpie",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/australian-kelpie/"
+    },
+    "australian-shepherd": {
+      "id": 23378,
+      "breed_name": "australian-shepherd",
+      "breed_name_display": "Australian Shepherd",
+      "group": "herding",
+      "rank": 16,
+      "url": "https://akc.org/dog-breeds/australian-shepherd/"
+    },
+    "australian-stump-tail-cattle-dog": {
+      "id": 57316,
+      "breed_name": "australian-stump-tail-cattle-dog",
+      "breed_name_display": "Australian Stumpy Tail Cattle Dog",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/australian-stump-tail-cattle-dog/"
+    },
+    "australian-terrier": {
+      "id": 23399,
+      "breed_name": "australian-terrier",
+      "breed_name_display": "Australian Terrier",
+      "group": "terrier",
+      "rank": 136,
+      "url": "https://akc.org/dog-breeds/australian-terrier/"
+    },
+    "azawakh": {
+      "id": 23414,
+      "breed_name": "azawakh",
+      "breed_name_display": "Azawakh",
+      "group": "miscellaneous-class",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/azawakh/"
+    },
+    "barbet": {
+      "id": 23417,
+      "breed_name": "barbet",
+      "breed_name_display": "Barbet",
+      "group": "miscellaneous-class",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/barbet/"
+    },
+    "basenji": {
+      "id": 23420,
+      "breed_name": "basenji",
+      "breed_name_display": "Basenji",
+      "group": "hound",
+      "rank": 88,
+      "url": "https://akc.org/dog-breeds/basenji/"
+    },
+    "basset-fauve-de-bretagne": {
+      "id": 23435,
+      "breed_name": "basset-fauve-de-bretagne",
+      "breed_name_display": "Basset Fauve de Bretagne",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/basset-fauve-de-bretagne/"
+    },
+    "basset-hound": {
+      "id": 23436,
+      "breed_name": "basset-hound",
+      "breed_name_display": "Basset Hound",
+      "group": "hound",
+      "rank": 39,
+      "url": "https://akc.org/dog-breeds/basset-hound/"
+    },
+    "bavarian-mountain-scent-hound": {
+      "id": 23451,
+      "breed_name": "bavarian-mountain-scent-hound",
+      "breed_name_display": "Bavarian Mountain Scent Hound",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/bavarian-mountain-scent-hound/"
+    },
+    "beagle": {
+      "id": 23453,
+      "breed_name": "beagle",
+      "breed_name_display": "Beagle",
+      "group": "hound",
+      "rank": 5,
+      "url": "https://akc.org/dog-breeds/beagle/"
+    },
+    "bearded-collie": {
+      "id": 23474,
+      "breed_name": "bearded-collie",
+      "breed_name_display": "Bearded Collie",
+      "group": "herding",
+      "rank": 126,
+      "url": "https://akc.org/dog-breeds/bearded-collie/"
+    },
+    "beauceron": {
+      "id": 23489,
+      "breed_name": "beauceron",
+      "breed_name_display": "Beauceron",
+      "group": "herding",
+      "rank": 140,
+      "url": "https://akc.org/dog-breeds/beauceron/"
+    },
+    "bedlington-terrier": {
+      "id": 23504,
+      "breed_name": "bedlington-terrier",
+      "breed_name_display": "Bedlington Terrier",
+      "group": "terrier",
+      "rank": 138,
+      "url": "https://akc.org/dog-breeds/bedlington-terrier/"
+    },
+    "belgian-laekenois": {
+      "id": 23519,
+      "breed_name": "belgian-laekenois",
+      "breed_name_display": "Belgian Laekenois",
+      "group": "miscellaneous-class",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/belgian-laekenois/"
+    },
+    "belgian-malinois": {
+      "id": 23522,
+      "breed_name": "belgian-malinois",
+      "breed_name_display": "Belgian Malinois",
+      "group": "herding",
+      "rank": 47,
+      "url": "https://akc.org/dog-breeds/belgian-malinois/"
+    },
+    "belgian-sheepdog": {
+      "id": 23537,
+      "breed_name": "belgian-sheepdog",
+      "breed_name_display": "Belgian Sheepdog",
+      "group": "herding",
+      "rank": 129,
+      "url": "https://akc.org/dog-breeds/belgian-sheepdog/"
+    },
+    "belgian-tervuren": {
+      "id": 23552,
+      "breed_name": "belgian-tervuren",
+      "breed_name_display": "Belgian Tervuren",
+      "group": "herding",
+      "rank": 107,
+      "url": "https://akc.org/dog-breeds/belgian-tervuren/"
+    },
+    "bergamasco-sheepdog": {
+      "id": 23567,
+      "breed_name": "bergamasco-sheepdog",
+      "breed_name_display": "Bergamasco Sheepdog",
+      "group": "herding",
+      "rank": 184,
+      "url": "https://akc.org/dog-breeds/bergamasco-sheepdog/"
+    },
+    "berger-picard": {
+      "id": 23569,
+      "breed_name": "berger-picard",
+      "breed_name_display": "Berger Picard",
+      "group": "herding",
+      "rank": 141,
+      "url": "https://akc.org/dog-breeds/berger-picard/"
+    },
+    "bernese-mountain-dog": {
+      "id": 23582,
+      "breed_name": "bernese-mountain-dog",
+      "breed_name_display": "Bernese Mountain Dog",
+      "group": "working",
+      "rank": 27,
+      "url": "https://akc.org/dog-breeds/bernese-mountain-dog/"
+    },
+    "bichon-frise": {
+      "id": 23597,
+      "breed_name": "bichon-frise",
+      "breed_name_display": "Bichon Frise",
+      "group": "non-sporting",
+      "rank": 45,
+      "url": "https://akc.org/dog-breeds/bichon-frise/"
+    },
+    "biewer-terrier": {
+      "id": 23608,
+      "breed_name": "biewer-terrier",
+      "breed_name_display": "Biewer Terrier",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/biewer-terrier/"
+    },
+    "black-and-tan-coonhound": {
+      "id": 23610,
+      "breed_name": "black-and-tan-coonhound",
+      "breed_name_display": "Black and Tan Coonhound",
+      "group": "hound",
+      "rank": 128,
+      "url": "https://akc.org/dog-breeds/black-and-tan-coonhound/"
+    },
+    "black-russian-terrier": {
+      "id": 23622,
+      "breed_name": "black-russian-terrier",
+      "breed_name_display": "Black Russian Terrier",
+      "group": "working",
+      "rank": 119,
+      "url": "https://akc.org/dog-breeds/black-russian-terrier/"
+    },
+    "bloodhound": {
+      "id": 23636,
+      "breed_name": "bloodhound",
+      "breed_name_display": "Bloodhound",
+      "group": "hound",
+      "rank": 52,
+      "url": "https://akc.org/dog-breeds/bloodhound/"
+    },
+    "bluetick-coonhound": {
+      "id": 23651,
+      "breed_name": "bluetick-coonhound",
+      "breed_name_display": "Bluetick Coonhound",
+      "group": "hound",
+      "rank": 121,
+      "url": "https://akc.org/dog-breeds/bluetick-coonhound/"
+    },
+    "boerboel": {
+      "id": 23666,
+      "breed_name": "boerboel",
+      "breed_name_display": "Boerboel",
+      "group": "working",
+      "rank": 131,
+      "url": "https://akc.org/dog-breeds/boerboel/"
+    },
+    "bolognese": {
+      "id": 23681,
+      "breed_name": "bolognese",
+      "breed_name_display": "Bolognese",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/bolognese/"
+    },
+    "border-collie": {
+      "id": 23684,
+      "breed_name": "border-collie",
+      "breed_name_display": "Border Collie",
+      "group": "herding",
+      "rank": 38,
+      "url": "https://akc.org/dog-breeds/border-collie/"
+    },
+    "border-terrier": {
+      "id": 23699,
+      "breed_name": "border-terrier",
+      "breed_name_display": "Border Terrier",
+      "group": "terrier",
+      "rank": 86,
+      "url": "https://akc.org/dog-breeds/border-terrier/"
+    },
+    "borzoi": {
+      "id": 23714,
+      "breed_name": "borzoi",
+      "breed_name_display": "Borzoi",
+      "group": "hound",
+      "rank": 98,
+      "url": "https://akc.org/dog-breeds/borzoi/"
+    },
+    "boston-terrier": {
+      "id": 23729,
+      "breed_name": "boston-terrier",
+      "breed_name_display": "Boston Terrier",
+      "group": "non-sporting",
+      "rank": 21,
+      "url": "https://akc.org/dog-breeds/boston-terrier/"
+    },
+    "bouvier-des-flandres": {
+      "id": 23743,
+      "breed_name": "bouvier-des-flandres",
+      "breed_name_display": "Bouvier des Flandres",
+      "group": "herding",
+      "rank": 83,
+      "url": "https://akc.org/dog-breeds/bouvier-des-flandres/"
+    },
+    "boxer": {
+      "id": 23758,
+      "breed_name": "boxer",
+      "breed_name_display": "Boxer",
+      "group": "working",
+      "rank": 10,
+      "url": "https://akc.org/dog-breeds/boxer/"
+    },
+    "boykin-spaniel": {
+      "id": 23779,
+      "breed_name": "boykin-spaniel",
+      "breed_name_display": "Boykin Spaniel",
+      "group": "sporting",
+      "rank": 110,
+      "url": "https://akc.org/dog-breeds/boykin-spaniel/"
+    },
+    "bracco-italiano": {
+      "id": 23794,
+      "breed_name": "bracco-italiano",
+      "breed_name_display": "Bracco Italiano",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/bracco-italiano/"
+    },
+    "braque-du-bourbonnais": {
+      "id": 23797,
+      "breed_name": "braque-du-bourbonnais",
+      "breed_name_display": "Braque du Bourbonnais",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/braque-du-bourbonnais/"
+    },
+    "braque-francais-pyrenean": {
+      "id": 23799,
+      "breed_name": "braque-francais-pyrenean",
+      "breed_name_display": "Braque Francais Pyrenean",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/braque-francais-pyrenean/"
+    },
+    "briard": {
+      "id": 23800,
+      "breed_name": "briard",
+      "breed_name_display": "Briard",
+      "group": "herding",
+      "rank": 132,
+      "url": "https://akc.org/dog-breeds/briard/"
+    },
+    "brittany": {
+      "id": 23814,
+      "breed_name": "brittany",
+      "breed_name_display": "Brittany",
+      "group": "sporting",
+      "rank": 25,
+      "url": "https://akc.org/dog-breeds/brittany/"
+    },
+    "broholmer": {
+      "id": 23829,
+      "breed_name": "broholmer",
+      "breed_name_display": "Broholmer",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/broholmer/"
+    },
+    "brussels-griffon": {
+      "id": 23832,
+      "breed_name": "brussels-griffon",
+      "breed_name_display": "Brussels Griffon",
+      "group": "toy",
+      "rank": 97,
+      "url": "https://akc.org/dog-breeds/brussels-griffon/"
+    },
+    "bull-terrier": {
+      "id": 23840,
+      "breed_name": "bull-terrier",
+      "breed_name_display": "Bull Terrier",
+      "group": "terrier",
+      "rank": 57,
+      "url": "https://akc.org/dog-breeds/bull-terrier/"
+    },
+    "bulldog": {
+      "id": 23854,
+      "breed_name": "bulldog",
+      "breed_name_display": "Bulldog",
+      "group": "non-sporting",
+      "rank": 4,
+      "url": "https://akc.org/dog-breeds/bulldog/"
+    },
+    "bullmastiff": {
+      "id": 23875,
+      "breed_name": "bullmastiff",
+      "breed_name_display": "Bullmastiff",
+      "group": "working",
+      "rank": 48,
+      "url": "https://akc.org/dog-breeds/bullmastiff/"
+    },
+    "cairn-terrier": {
+      "id": 23890,
+      "breed_name": "cairn-terrier",
+      "breed_name_display": "Cairn Terrier",
+      "group": "terrier",
+      "rank": 70,
+      "url": "https://akc.org/dog-breeds/cairn-terrier/"
+    },
+    "canaan-dog": {
+      "id": 23905,
+      "breed_name": "canaan-dog",
+      "breed_name_display": "Canaan Dog",
+      "group": "herding",
+      "rank": 181,
+      "url": "https://akc.org/dog-breeds/canaan-dog/"
+    },
+    "cane-corso": {
+      "id": 23914,
+      "breed_name": "cane-corso",
+      "breed_name_display": "Cane Corso",
+      "group": "working",
+      "rank": 40,
+      "url": "https://akc.org/dog-breeds/cane-corso/"
+    },
+    "cardigan-welsh-corgi": {
+      "id": 23929,
+      "breed_name": "cardigan-welsh-corgi",
+      "breed_name_display": "Cardigan Welsh Corgi",
+      "group": "herding",
+      "rank": 69,
+      "url": "https://akc.org/dog-breeds/cardigan-welsh-corgi/"
+    },
+    "carolina-dog": {
+      "id": 23944,
+      "breed_name": "carolina-dog",
+      "breed_name_display": "Carolina Dog",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/carolina-dog/"
+    },
+    "catahoula-leopard-dog": {
+      "id": 23946,
+      "breed_name": "catahoula-leopard-dog",
+      "breed_name_display": "Catahoula Leopard Dog",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/catahoula-leopard-dog/"
+    },
+    "caucasian-shepherd-dog": {
+      "id": 23949,
+      "breed_name": "caucasian-shepherd-dog",
+      "breed_name_display": "Caucasian Shepherd Dog",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/caucasian-shepherd-dog/"
+    },
+    "cavalier-king-charles-spaniel": {
+      "id": 23951,
+      "breed_name": "cavalier-king-charles-spaniel",
+      "breed_name_display": "Cavalier King Charles Spaniel",
+      "group": "toy",
+      "rank": 19,
+      "url": "https://akc.org/dog-breeds/cavalier-king-charles-spaniel/"
+    },
+    "central-asian-shepherd-dog": {
+      "id": 23972,
+      "breed_name": "central-asian-shepherd-dog",
+      "breed_name_display": "Central Asian Shepherd Dog",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/central-asian-shepherd-dog/"
+    },
+    "cesky-terrier": {
+      "id": 23975,
+      "breed_name": "cesky-terrier",
+      "breed_name_display": "Cesky Terrier",
+      "group": "terrier",
+      "rank": 182,
+      "url": "https://akc.org/dog-breeds/cesky-terrier/"
+    },
+    "chesapeake-bay-retriever": {
+      "id": 23990,
+      "breed_name": "chesapeake-bay-retriever",
+      "breed_name_display": "Chesapeake Bay Retriever",
+      "group": "sporting",
+      "rank": 43,
+      "url": "https://akc.org/dog-breeds/chesapeake-bay-retriever/"
+    },
+    "chihuahua": {
+      "id": 24001,
+      "breed_name": "chihuahua",
+      "breed_name_display": "Chihuahua",
+      "group": "toy",
+      "rank": 30,
+      "url": "https://akc.org/dog-breeds/chihuahua/"
+    },
+    "chinese-crested": {
+      "id": 24016,
+      "breed_name": "chinese-crested",
+      "breed_name_display": "Chinese Crested",
+      "group": "toy",
+      "rank": 77,
+      "url": "https://akc.org/dog-breeds/chinese-crested/"
+    },
+    "chinese-shar-pei": {
+      "id": 24031,
+      "breed_name": "chinese-shar-pei",
+      "breed_name_display": "Chinese Shar-Pei",
+      "group": "non-sporting",
+      "rank": 61,
+      "url": "https://akc.org/dog-breeds/chinese-shar-pei/"
+    },
+    "chinook": {
+      "id": 24045,
+      "breed_name": "chinook",
+      "breed_name_display": "Chinook",
+      "group": "working",
+      "rank": 175,
+      "url": "https://akc.org/dog-breeds/chinook/"
+    },
+    "chow-chow": {
+      "id": 24060,
+      "breed_name": "chow-chow",
+      "breed_name_display": "Chow Chow",
+      "group": "non-sporting",
+      "rank": 74,
+      "url": "https://akc.org/dog-breeds/chow-chow/"
+    },
+    "cirneco-delletna": {
+      "id": 24075,
+      "breed_name": "cirneco-delletna",
+      "breed_name_display": "Cirneco dell’Etna",
+      "group": "hound",
+      "rank": 183,
+      "url": "https://akc.org/dog-breeds/cirneco-delletna/"
+    },
+    "clumber-spaniel": {
+      "id": 24077,
+      "breed_name": "clumber-spaniel",
+      "breed_name_display": "Clumber Spaniel",
+      "group": "sporting",
+      "rank": 144,
+      "url": "https://akc.org/dog-breeds/clumber-spaniel/"
+    },
+    "cocker-spaniel": {
+      "id": 24092,
+      "breed_name": "cocker-spaniel",
+      "breed_name_display": "Cocker Spaniel",
+      "group": "sporting",
+      "rank": 29,
+      "url": "https://akc.org/dog-breeds/cocker-spaniel/"
+    },
+    "collie": {
+      "id": 24112,
+      "breed_name": "collie",
+      "breed_name_display": "Collie",
+      "group": "herding",
+      "rank": 37,
+      "url": "https://akc.org/dog-breeds/collie/"
+    },
+    "coton-de-tulear": {
+      "id": 24132,
+      "breed_name": "coton-de-tulear",
+      "breed_name_display": "Coton de Tulear",
+      "group": "non-sporting",
+      "rank": 80,
+      "url": "https://akc.org/dog-breeds/coton-de-tulear/"
+    },
+    "croatian-sheepdog": {
+      "id": 48326,
+      "breed_name": "croatian-sheepdog",
+      "breed_name_display": "Croatian Sheepdog",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/croatian-sheepdog/"
+    },
+    "curly-coated-retriever": {
+      "id": 24146,
+      "breed_name": "curly-coated-retriever",
+      "breed_name_display": "Curly-Coated Retriever",
+      "group": "sporting",
+      "rank": 164,
+      "url": "https://akc.org/dog-breeds/curly-coated-retriever/"
+    },
+    "czechoslovakian-vlcak": {
+      "id": 24160,
+      "breed_name": "czechoslovakian-vlcak",
+      "breed_name_display": "Czechoslovakian Vlcak",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/czechoslovakian-vlcak/"
+    },
+    "dachshund": {
+      "id": 24162,
+      "breed_name": "dachshund",
+      "breed_name_display": "Dachshund",
+      "group": "hound",
+      "rank": 13,
+      "url": "https://akc.org/dog-breeds/dachshund/"
+    },
+    "dalmatian": {
+      "id": 24183,
+      "breed_name": "dalmatian",
+      "breed_name_display": "Dalmatian",
+      "group": "non-sporting",
+      "rank": 62,
+      "url": "https://akc.org/dog-breeds/dalmatian/"
+    },
+    "dandie-dinmont-terrier": {
+      "id": 24198,
+      "breed_name": "dandie-dinmont-terrier",
+      "breed_name_display": "Dandie Dinmont Terrier",
+      "group": "terrier",
+      "rank": 167,
+      "url": "https://akc.org/dog-breeds/dandie-dinmont-terrier/"
+    },
+    "danish-swedish-farmdog": {
+      "id": 24211,
+      "breed_name": "danish-swedish-farmdog",
+      "breed_name_display": "Danish-Swedish Farmdog",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/danish-swedish-farmdog/"
+    },
+    "deutscher-wachtelhund": {
+      "id": 24213,
+      "breed_name": "deutscher-wachtelhund",
+      "breed_name_display": "Deutscher Wachtelhund",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/deutscher-wachtelhund/"
+    },
+    "doberman-pinscher": {
+      "id": 24216,
+      "breed_name": "doberman-pinscher",
+      "breed_name_display": "Doberman Pinscher",
+      "group": "working",
+      "rank": 15,
+      "url": "https://akc.org/dog-breeds/doberman-pinscher/"
+    },
+    "dogo-argentino": {
+      "id": 24238,
+      "breed_name": "dogo-argentino",
+      "breed_name_display": "Dogo Argentino",
+      "group": "miscellaneous-class",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/dogo-argentino/"
+    },
+    "dogue-de-bordeaux": {
+      "id": 24241,
+      "breed_name": "dogue-de-bordeaux",
+      "breed_name_display": "Dogue de Bordeaux",
+      "group": "working",
+      "rank": 63,
+      "url": "https://akc.org/dog-breeds/dogue-de-bordeaux/"
+    },
+    "drentsche-patrijshond": {
+      "id": 24255,
+      "breed_name": "drentsche-patrijshond",
+      "breed_name_display": "Drentsche Patrijshond",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/drentsche-patrijshond/"
+    },
+    "drever": {
+      "id": 24257,
+      "breed_name": "drever",
+      "breed_name_display": "Drever",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/drever/"
+    },
+    "dutch-shepherd": {
+      "id": 24259,
+      "breed_name": "dutch-shepherd",
+      "breed_name_display": "Dutch Shepherd",
+      "group": "miscellaneous-class",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/dutch-shepherd/"
+    },
+    "english-cocker-spaniel": {
+      "id": 24262,
+      "breed_name": "english-cocker-spaniel",
+      "breed_name_display": "English Cocker Spaniel",
+      "group": "sporting",
+      "rank": 56,
+      "url": "https://akc.org/dog-breeds/english-cocker-spaniel/"
+    },
+    "english-foxhound": {
+      "id": 24277,
+      "breed_name": "english-foxhound",
+      "breed_name_display": "English Foxhound",
+      "group": "hound",
+      "rank": 187,
+      "url": "https://akc.org/dog-breeds/english-foxhound/"
+    },
+    "english-setter": {
+      "id": 24291,
+      "breed_name": "english-setter",
+      "breed_name_display": "English Setter",
+      "group": "sporting",
+      "rank": 102,
+      "url": "https://akc.org/dog-breeds/english-setter/"
+    },
+    "english-springer-spaniel": {
+      "id": 24306,
+      "breed_name": "english-springer-spaniel",
+      "breed_name_display": "English Springer Spaniel",
+      "group": "sporting",
+      "rank": 26,
+      "url": "https://akc.org/dog-breeds/english-springer-spaniel/"
+    },
+    "english-toy-spaniel": {
+      "id": 24321,
+      "breed_name": "english-toy-spaniel",
+      "breed_name_display": "English Toy Spaniel",
+      "group": "toy",
+      "rank": 130,
+      "url": "https://akc.org/dog-breeds/english-toy-spaniel/"
+    },
+    "entlebucher-mountain-dog": {
+      "id": 24336,
+      "breed_name": "entlebucher-mountain-dog",
+      "breed_name_display": "Entlebucher Mountain Dog",
+      "group": "herding",
+      "rank": 161,
+      "url": "https://akc.org/dog-breeds/entlebucher-mountain-dog/"
+    },
+    "estrela-mountain-dog": {
+      "id": 24351,
+      "breed_name": "estrela-mountain-dog",
+      "breed_name_display": "Estrela Mountain Dog",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/estrela-mountain-dog/"
+    },
+    "eurasier": {
+      "id": 24353,
+      "breed_name": "eurasier",
+      "breed_name_display": "Eurasier",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/eurasier/"
+    },
+    "field-spaniel": {
+      "id": 24355,
+      "breed_name": "field-spaniel",
+      "breed_name_display": "Field Spaniel",
+      "group": "sporting",
+      "rank": 147,
+      "url": "https://akc.org/dog-breeds/field-spaniel/"
+    },
+    "finnish-lapphund": {
+      "id": 24370,
+      "breed_name": "finnish-lapphund",
+      "breed_name_display": "Finnish Lapphund",
+      "group": "herding",
+      "rank": 173,
+      "url": "https://akc.org/dog-breeds/finnish-lapphund/"
+    },
+    "finnish-spitz": {
+      "id": 24380,
+      "breed_name": "finnish-spitz",
+      "breed_name_display": "Finnish Spitz",
+      "group": "non-sporting",
+      "rank": 179,
+      "url": "https://akc.org/dog-breeds/finnish-spitz/"
+    },
+    "flat-coated-retriever": {
+      "id": 24395,
+      "breed_name": "flat-coated-retriever",
+      "breed_name_display": "Flat-Coated Retriever",
+      "group": "sporting",
+      "rank": 89,
+      "url": "https://akc.org/dog-breeds/flat-coated-retriever/"
+    },
+    "french-bulldog": {
+      "id": 24410,
+      "breed_name": "french-bulldog",
+      "breed_name_display": "French Bulldog",
+      "group": "non-sporting",
+      "rank": 6,
+      "url": "https://akc.org/dog-breeds/french-bulldog/"
+    },
+    "french-spaniel": {
+      "id": 24431,
+      "breed_name": "french-spaniel",
+      "breed_name_display": "French Spaniel",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/french-spaniel/"
+    },
+    "german-longhaired-pointer": {
+      "id": 24433,
+      "breed_name": "german-longhaired-pointer",
+      "breed_name_display": "German Longhaired Pointer",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/german-longhaired-pointer/"
+    },
+    "german-pinscher": {
+      "id": 24436,
+      "breed_name": "german-pinscher",
+      "breed_name_display": "German Pinscher",
+      "group": "working",
+      "rank": 146,
+      "url": "https://akc.org/dog-breeds/german-pinscher/"
+    },
+    "german-shepherd-dog": {
+      "id": 24451,
+      "breed_name": "german-shepherd-dog",
+      "breed_name_display": "German Shepherd Dog",
+      "group": "herding",
+      "rank": 2,
+      "url": "https://akc.org/dog-breeds/german-shepherd-dog/"
+    },
+    "german-shorthaired-pointer": {
+      "id": 24471,
+      "breed_name": "german-shorthaired-pointer",
+      "breed_name_display": "German Shorthaired Pointer",
+      "group": "sporting",
+      "rank": 11,
+      "url": "https://akc.org/dog-breeds/german-shorthaired-pointer/"
+    },
+    "german-spitz": {
+      "id": 24487,
+      "breed_name": "german-spitz",
+      "breed_name_display": "German Spitz",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/german-spitz/"
+    },
+    "german-wirehaired-pointer": {
+      "id": 24489,
+      "breed_name": "german-wirehaired-pointer",
+      "breed_name_display": "German Wirehaired Pointer",
+      "group": "sporting",
+      "rank": 64,
+      "url": "https://akc.org/dog-breeds/german-wirehaired-pointer/"
+    },
+    "giant-schnauzer": {
+      "id": 24504,
+      "breed_name": "giant-schnauzer",
+      "breed_name_display": "Giant Schnauzer",
+      "group": "working",
+      "rank": 79,
+      "url": "https://akc.org/dog-breeds/giant-schnauzer/"
+    },
+    "glen-of-imaal-terrier": {
+      "id": 24519,
+      "breed_name": "glen-of-imaal-terrier",
+      "breed_name_display": "Glen of Imaal Terrier",
+      "group": "terrier",
+      "rank": 180,
+      "url": "https://akc.org/dog-breeds/glen-of-imaal-terrier/"
+    },
+    "golden-retriever": {
+      "id": 24534,
+      "breed_name": "golden-retriever",
+      "breed_name_display": "Golden Retriever",
+      "group": "sporting",
+      "rank": 3,
+      "url": "https://akc.org/dog-breeds/golden-retriever/"
+    },
+    "gordon-setter": {
+      "id": 24555,
+      "breed_name": "gordon-setter",
+      "breed_name_display": "Gordon Setter",
+      "group": "sporting",
+      "rank": 104,
+      "url": "https://akc.org/dog-breeds/gordon-setter/"
+    },
+    "grand-basset-griffon-vendeen": {
+      "id": 24570,
+      "breed_name": "grand-basset-griffon-vendeen",
+      "breed_name_display": "Grand Basset Griffon Vendéen",
+      "group": "hound",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/grand-basset-griffon-vendeen/"
+    },
+    "great-dane": {
+      "id": 24572,
+      "breed_name": "great-dane",
+      "breed_name_display": "Great Dane",
+      "group": "working",
+      "rank": 14,
+      "url": "https://akc.org/dog-breeds/great-dane/"
+    },
+    "great-pyrenees": {
+      "id": 24593,
+      "breed_name": "great-pyrenees",
+      "breed_name_display": "Great Pyrenees",
+      "group": "working",
+      "rank": 67,
+      "url": "https://akc.org/dog-breeds/great-pyrenees/"
+    },
+    "greater-swiss-mountain-dog": {
+      "id": 24603,
+      "breed_name": "greater-swiss-mountain-dog",
+      "breed_name_display": "Greater Swiss Mountain Dog",
+      "group": "working",
+      "rank": 78,
+      "url": "https://akc.org/dog-breeds/greater-swiss-mountain-dog/"
+    },
+    "greyhound": {
+      "id": 24618,
+      "breed_name": "greyhound",
+      "breed_name_display": "Greyhound",
+      "group": "hound",
+      "rank": 151,
+      "url": "https://akc.org/dog-breeds/greyhound/"
+    },
+    "hamiltonstovare": {
+      "id": 24633,
+      "breed_name": "hamiltonstovare",
+      "breed_name_display": "Hamiltonstovare",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/hamiltonstovare/"
+    },
+    "hanoverian-scenthound": {
+      "id": 24635,
+      "breed_name": "hanoverian-scenthound",
+      "breed_name_display": "Hanoverian Scenthound",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/hanoverian-scenthound/"
+    },
+    "harrier": {
+      "id": 24638,
+      "breed_name": "harrier",
+      "breed_name_display": "Harrier",
+      "group": "hound",
+      "rank": 186,
+      "url": "https://akc.org/dog-breeds/harrier/"
+    },
+    "havanese": {
+      "id": 24653,
+      "breed_name": "havanese",
+      "breed_name_display": "Havanese",
+      "group": "toy",
+      "rank": 23,
+      "url": "https://akc.org/dog-breeds/havanese/"
+    },
+    "hokkaido": {
+      "id": 24667,
+      "breed_name": "hokkaido",
+      "breed_name_display": "Hokkaido",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/hokkaido/"
+    },
+    "hovawart": {
+      "id": 24669,
+      "breed_name": "hovawart",
+      "breed_name_display": "Hovawart",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/hovawart/"
+    },
+    "ibizan-hound": {
+      "id": 24672,
+      "breed_name": "ibizan-hound",
+      "breed_name_display": "Ibizan Hound",
+      "group": "hound",
+      "rank": 152,
+      "url": "https://akc.org/dog-breeds/ibizan-hound/"
+    },
+    "icelandic-sheepdog": {
+      "id": 24687,
+      "breed_name": "icelandic-sheepdog",
+      "breed_name_display": "Icelandic Sheepdog",
+      "group": "herding",
+      "rank": 153,
+      "url": "https://akc.org/dog-breeds/icelandic-sheepdog/"
+    },
+    "irish-red-and-white-setter": {
+      "id": 24701,
+      "breed_name": "irish-red-and-white-setter",
+      "breed_name_display": "Irish Red and White Setter",
+      "group": "sporting",
+      "rank": 142,
+      "url": "https://akc.org/dog-breeds/irish-red-and-white-setter/"
+    },
+    "irish-setter": {
+      "id": 24715,
+      "breed_name": "irish-setter",
+      "breed_name_display": "Irish Setter",
+      "group": "sporting",
+      "rank": 76,
+      "url": "https://akc.org/dog-breeds/irish-setter/"
+    },
+    "irish-terrier": {
+      "id": 24729,
+      "breed_name": "irish-terrier",
+      "breed_name_display": "Irish Terrier",
+      "group": "terrier",
+      "rank": 115,
+      "url": "https://akc.org/dog-breeds/irish-terrier/"
+    },
+    "irish-water-spaniel": {
+      "id": 24744,
+      "breed_name": "irish-water-spaniel",
+      "breed_name_display": "Irish Water Spaniel",
+      "group": "sporting",
+      "rank": 150,
+      "url": "https://akc.org/dog-breeds/irish-water-spaniel/"
+    },
+    "irish-wolfhound": {
+      "id": 24759,
+      "breed_name": "irish-wolfhound",
+      "breed_name_display": "Irish Wolfhound",
+      "group": "hound",
+      "rank": 73,
+      "url": "https://akc.org/dog-breeds/irish-wolfhound/"
+    },
+    "italian-greyhound": {
+      "id": 24774,
+      "breed_name": "italian-greyhound",
+      "breed_name_display": "Italian Greyhound",
+      "group": "toy",
+      "rank": 72,
+      "url": "https://akc.org/dog-breeds/italian-greyhound/"
+    },
+    "jagdterrier": {
+      "id": 24789,
+      "breed_name": "jagdterrier",
+      "breed_name_display": "Jagdterrier",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/jagdterrier/"
+    },
+    "japanese-chin": {
+      "id": 24790,
+      "breed_name": "japanese-chin",
+      "breed_name_display": "Japanese Chin",
+      "group": "toy",
+      "rank": 108,
+      "url": "https://akc.org/dog-breeds/japanese-chin/"
+    },
+    "jindo": {
+      "id": 24804,
+      "breed_name": "jindo",
+      "breed_name_display": "Jindo",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/jindo/"
+    },
+    "kai-ken": {
+      "id": 24806,
+      "breed_name": "kai-ken",
+      "breed_name_display": "Kai Ken",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/kai-ken/"
+    },
+    "karelian-bear-dog": {
+      "id": 24808,
+      "breed_name": "karelian-bear-dog",
+      "breed_name_display": "Karelian Bear Dog",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/karelian-bear-dog/"
+    },
+    "keeshond": {
+      "id": 24810,
+      "breed_name": "keeshond",
+      "breed_name_display": "Keeshond",
+      "group": "non-sporting",
+      "rank": 92,
+      "url": "https://akc.org/dog-breeds/keeshond/"
+    },
+    "kerry-blue-terrier": {
+      "id": 24825,
+      "breed_name": "kerry-blue-terrier",
+      "breed_name_display": "Kerry Blue Terrier",
+      "group": "terrier",
+      "rank": 127,
+      "url": "https://akc.org/dog-breeds/kerry-blue-terrier/"
+    },
+    "kishu-ken": {
+      "id": 24839,
+      "breed_name": "kishu-ken",
+      "breed_name_display": "Kishu Ken",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/kishu-ken/"
+    },
+    "komondor": {
+      "id": 24841,
+      "breed_name": "komondor",
+      "breed_name_display": "Komondor",
+      "group": "working",
+      "rank": 177,
+      "url": "https://akc.org/dog-breeds/komondor/"
+    },
+    "kromfohrlander": {
+      "id": 24856,
+      "breed_name": "kromfohrlander",
+      "breed_name_display": "Kromfohrlander",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/kromfohrlander/"
+    },
+    "kuvasz": {
+      "id": 24858,
+      "breed_name": "kuvasz",
+      "breed_name_display": "Kuvasz",
+      "group": "working",
+      "rank": 165,
+      "url": "https://akc.org/dog-breeds/kuvasz/"
+    },
+    "labrador-retriever": {
+      "id": 24873,
+      "breed_name": "labrador-retriever",
+      "breed_name_display": "Labrador Retriever",
+      "group": "sporting",
+      "rank": 1,
+      "url": "https://akc.org/dog-breeds/labrador-retriever/"
+    },
+    "lagotto-romagnolo": {
+      "id": 24894,
+      "breed_name": "lagotto-romagnolo",
+      "breed_name_display": "Lagotto Romagnolo",
+      "group": "sporting",
+      "rank": 114,
+      "url": "https://akc.org/dog-breeds/lagotto-romagnolo/"
+    },
+    "lakeland-terrier": {
+      "id": 24908,
+      "breed_name": "lakeland-terrier",
+      "breed_name_display": "Lakeland Terrier",
+      "group": "terrier",
+      "rank": 145,
+      "url": "https://akc.org/dog-breeds/lakeland-terrier/"
+    },
+    "lancashire-heeler": {
+      "id": 24923,
+      "breed_name": "lancashire-heeler",
+      "breed_name_display": "Lancashire Heeler",
+      "group": "miscellaneous-class",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/lancashire-heeler/"
+    },
+    "lapponian-herder": {
+      "id": 24925,
+      "breed_name": "lapponian-herder",
+      "breed_name_display": "Lapponian Herder",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/lapponian-herder/"
+    },
+    "leonberger": {
+      "id": 24927,
+      "breed_name": "leonberger",
+      "breed_name_display": "Leonberger",
+      "group": "working",
+      "rank": 95,
+      "url": "https://akc.org/dog-breeds/leonberger/"
+    },
+    "lhasa-apso": {
+      "id": 24942,
+      "breed_name": "lhasa-apso",
+      "breed_name_display": "Lhasa Apso",
+      "group": "non-sporting",
+      "rank": 71,
+      "url": "https://akc.org/dog-breeds/lhasa-apso/"
+    },
+    "lowchen": {
+      "id": 24956,
+      "breed_name": "lowchen",
+      "breed_name_display": "Löwchen",
+      "group": "non-sporting",
+      "rank": 171,
+      "url": "https://akc.org/dog-breeds/lowchen/"
+    },
+    "maltese": {
+      "id": 24958,
+      "breed_name": "maltese",
+      "breed_name_display": "Maltese",
+      "group": "toy",
+      "rank": 33,
+      "url": "https://akc.org/dog-breeds/maltese/"
+    },
+    "manchester-terrier-standard": {
+      "id": 24973,
+      "breed_name": "manchester-terrier-standard",
+      "breed_name_display": "Manchester Terrier (Standard)",
+      "group": "terrier",
+      "rank": 133,
+      "url": "https://akc.org/dog-breeds/manchester-terrier-standard/"
+    },
+    "manchester-terrier-toy": {
+      "id": 49157,
+      "breed_name": "manchester-terrier-toy",
+      "breed_name_display": "Manchester Terrier (Toy)",
+      "group": "toy",
+      "rank": 133,
+      "url": "https://akc.org/dog-breeds/manchester-terrier-toy/"
+    },
+    "mastiff": {
+      "id": 24987,
+      "breed_name": "mastiff",
+      "breed_name_display": "Mastiff",
+      "group": "working",
+      "rank": 28,
+      "url": "https://akc.org/dog-breeds/mastiff/"
+    },
+    "miniature-american-shepherd": {
+      "id": 25002,
+      "breed_name": "miniature-american-shepherd",
+      "breed_name_display": "Miniature American Shepherd",
+      "group": "herding",
+      "rank": 36,
+      "url": "https://akc.org/dog-breeds/miniature-american-shepherd/"
+    },
+    "miniature-bull-terrier": {
+      "id": 25017,
+      "breed_name": "miniature-bull-terrier",
+      "breed_name_display": "Miniature Bull Terrier",
+      "group": "terrier",
+      "rank": 120,
+      "url": "https://akc.org/dog-breeds/miniature-bull-terrier/"
+    },
+    "miniature-pinscher": {
+      "id": 25029,
+      "breed_name": "miniature-pinscher",
+      "breed_name_display": "Miniature Pinscher",
+      "group": "toy",
+      "rank": 68,
+      "url": "https://akc.org/dog-breeds/miniature-pinscher/"
+    },
+    "miniature-schnauzer": {
+      "id": 25043,
+      "breed_name": "miniature-schnauzer",
+      "breed_name_display": "Miniature Schnauzer",
+      "group": "terrier",
+      "rank": 17,
+      "url": "https://akc.org/dog-breeds/miniature-schnauzer/"
+    },
+    "mountain-cur": {
+      "id": 25059,
+      "breed_name": "mountain-cur",
+      "breed_name_display": "Mountain Cur",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/mountain-cur/"
+    },
+    "mudi": {
+      "id": 25061,
+      "breed_name": "mudi",
+      "breed_name_display": "Mudi",
+      "group": "miscellaneous-class",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/mudi/"
+    },
+    "neapolitan-mastiff": {
+      "id": 25063,
+      "breed_name": "neapolitan-mastiff",
+      "breed_name_display": "Neapolitan Mastiff",
+      "group": "working",
+      "rank": 99,
+      "url": "https://akc.org/dog-breeds/neapolitan-mastiff/"
+    },
+    "nederlandse-kooikerhondje": {
+      "id": 25078,
+      "breed_name": "nederlandse-kooikerhondje",
+      "breed_name_display": "Nederlandse Kooikerhondje",
+      "group": "sporting",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/nederlandse-kooikerhondje/"
+    },
+    "newfoundland": {
+      "id": 25081,
+      "breed_name": "newfoundland",
+      "breed_name_display": "Newfoundland",
+      "group": "working",
+      "rank": 35,
+      "url": "https://akc.org/dog-breeds/newfoundland/"
+    },
+    "norfolk-terrier": {
+      "id": 25096,
+      "breed_name": "norfolk-terrier",
+      "breed_name_display": "Norfolk Terrier",
+      "group": "terrier",
+      "rank": 134,
+      "url": "https://akc.org/dog-breeds/norfolk-terrier/"
+    },
+    "norrbottenspets": {
+      "id": 25111,
+      "breed_name": "norrbottenspets",
+      "breed_name_display": "Norrbottenspets",
+      "group": "miscellaneous-class",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/norrbottenspets/"
+    },
+    "norwegian-buhund": {
+      "id": 25114,
+      "breed_name": "norwegian-buhund",
+      "breed_name_display": "Norwegian Buhund",
+      "group": "herding",
+      "rank": 174,
+      "url": "https://akc.org/dog-breeds/norwegian-buhund/"
+    },
+    "norwegian-elkhound": {
+      "id": 25129,
+      "breed_name": "norwegian-elkhound",
+      "breed_name_display": "Norwegian Elkhound",
+      "group": "hound",
+      "rank": 94,
+      "url": "https://akc.org/dog-breeds/norwegian-elkhound/"
+    },
+    "norwegian-lundehund": {
+      "id": 25139,
+      "breed_name": "norwegian-lundehund",
+      "breed_name_display": "Norwegian Lundehund",
+      "group": "non-sporting",
+      "rank": 188,
+      "url": "https://akc.org/dog-breeds/norwegian-lundehund/"
+    },
+    "norwich-terrier": {
+      "id": 25153,
+      "breed_name": "norwich-terrier",
+      "breed_name_display": "Norwich Terrier",
+      "group": "terrier",
+      "rank": 103,
+      "url": "https://akc.org/dog-breeds/norwich-terrier/"
+    },
+    "nova-scotia-duck-tolling-retriever": {
+      "id": 25167,
+      "breed_name": "nova-scotia-duck-tolling-retriever",
+      "breed_name_display": "Nova Scotia Duck Tolling Retriever",
+      "group": "sporting",
+      "rank": 87,
+      "url": "https://akc.org/dog-breeds/nova-scotia-duck-tolling-retriever/"
+    },
+    "old-english-sheepdog": {
+      "id": 25181,
+      "breed_name": "old-english-sheepdog",
+      "breed_name_display": "Old English Sheepdog",
+      "group": "herding",
+      "rank": 75,
+      "url": "https://akc.org/dog-breeds/old-english-sheepdog/"
+    },
+    "otterhound": {
+      "id": 25195,
+      "breed_name": "otterhound",
+      "breed_name_display": "Otterhound",
+      "group": "hound",
+      "rank": 166,
+      "url": "https://akc.org/dog-breeds/otterhound/"
+    },
+    "papillon": {
+      "id": 25210,
+      "breed_name": "papillon",
+      "breed_name_display": "Papillon",
+      "group": "toy",
+      "rank": 53,
+      "url": "https://akc.org/dog-breeds/papillon/"
+    },
+    "parson-russell-terrier": {
+      "id": 25221,
+      "breed_name": "parson-russell-terrier",
+      "breed_name_display": "Parson Russell Terrier",
+      "group": "terrier",
+      "rank": 109,
+      "url": "https://akc.org/dog-breeds/parson-russell-terrier/"
+    },
+    "pekingese": {
+      "id": 25235,
+      "breed_name": "pekingese",
+      "breed_name_display": "Pekingese",
+      "group": "toy",
+      "rank": 93,
+      "url": "https://akc.org/dog-breeds/pekingese/"
+    },
+    "pembroke-welsh-corgi": {
+      "id": 25249,
+      "breed_name": "pembroke-welsh-corgi",
+      "breed_name_display": "Pembroke Welsh Corgi",
+      "group": "herding",
+      "rank": 18,
+      "url": "https://akc.org/dog-breeds/pembroke-welsh-corgi/"
+    },
+    "perro-de-presa-canario": {
+      "id": 25265,
+      "breed_name": "perro-de-presa-canario",
+      "breed_name_display": "Perro de Presa Canario",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/perro-de-presa-canario/"
+    },
+    "peruvian-inca-orchid": {
+      "id": 25267,
+      "breed_name": "peruvian-inca-orchid",
+      "breed_name_display": "Peruvian Inca Orchid",
+      "group": "miscellaneous-class",
+      "rank": 166,
+      "url": "https://akc.org/dog-breeds/peruvian-inca-orchid/"
+    },
+    "petit-basset-griffon-vendeen": {
+      "id": 25270,
+      "breed_name": "petit-basset-griffon-vendeen",
+      "breed_name_display": "Petit Basset Griffon Vendéen",
+      "group": "hound",
+      "rank": 148,
+      "url": "https://akc.org/dog-breeds/petit-basset-griffon-vendeen/"
+    },
+    "pharaoh-hound": {
+      "id": 25272,
+      "breed_name": "pharaoh-hound",
+      "breed_name_display": "Pharaoh Hound",
+      "group": "hound",
+      "rank": 168,
+      "url": "https://akc.org/dog-breeds/pharaoh-hound/"
+    },
+    "plott": {
+      "id": 25282,
+      "breed_name": "plott",
+      "breed_name_display": "Plott",
+      "group": "hound",
+      "rank": 158,
+      "url": "https://akc.org/dog-breeds/plott/"
+    },
+    "pointer": {
+      "id": 25297,
+      "breed_name": "pointer",
+      "breed_name_display": "Pointer",
+      "group": "sporting",
+      "rank": 117,
+      "url": "https://akc.org/dog-breeds/pointer/"
+    },
+    "polish-lowland-sheepdog": {
+      "id": 25310,
+      "breed_name": "polish-lowland-sheepdog",
+      "breed_name_display": "Polish Lowland Sheepdog",
+      "group": "herding",
+      "rank": 169,
+      "url": "https://akc.org/dog-breeds/polish-lowland-sheepdog/"
+    },
+    "pomeranian": {
+      "id": 25321,
+      "breed_name": "pomeranian",
+      "breed_name_display": "Pomeranian",
+      "group": "toy",
+      "rank": 22,
+      "url": "https://akc.org/dog-breeds/pomeranian/"
+    },
+    "poodle-miniature-standard": {
+      "id": 25336,
+      "breed_name": "poodle-miniature-standard",
+      "breed_name_display": "Poodle (Miniature / Standard)",
+      "group": "non-sporting",
+      "rank": 7,
+      "url": "https://akc.org/dog-breeds/poodle-miniature-standard/"
+    },
+    "poodle-toy": {
+      "id": 49148,
+      "breed_name": "poodle-toy",
+      "breed_name_display": "Poodle (Toy)",
+      "group": "toy",
+      "rank": 7,
+      "url": "https://akc.org/dog-breeds/poodle-toy/"
+    },
+    "porcelaine": {
+      "id": 25357,
+      "breed_name": "porcelaine",
+      "breed_name_display": "Porcelaine",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/porcelaine/"
+    },
+    "portuguese-podengo": {
+      "id": 25359,
+      "breed_name": "portuguese-podengo",
+      "breed_name_display": "Portuguese Podengo",
+      "group": "miscellaneous-class",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/portuguese-podengo/"
+    },
+    "portuguese-podengo-pequeno": {
+      "id": 25367,
+      "breed_name": "portuguese-podengo-pequeno",
+      "breed_name_display": "Portuguese Podengo Pequeno",
+      "group": "hound",
+      "rank": 160,
+      "url": "https://akc.org/dog-breeds/portuguese-podengo-pequeno/"
+    },
+    "portuguese-pointer": {
+      "id": 25375,
+      "breed_name": "portuguese-pointer",
+      "breed_name_display": "Portuguese Pointer",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/portuguese-pointer/"
+    },
+    "portuguese-sheepdog": {
+      "id": 25377,
+      "breed_name": "portuguese-sheepdog",
+      "breed_name_display": "Portuguese Sheepdog",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/portuguese-sheepdog/"
+    },
+    "portuguese-water-dog": {
+      "id": 25378,
+      "breed_name": "portuguese-water-dog",
+      "breed_name_display": "Portuguese Water Dog",
+      "group": "working",
+      "rank": 51,
+      "url": "https://akc.org/dog-breeds/portuguese-water-dog/"
+    },
+    "pudelpointer": {
+      "id": 25389,
+      "breed_name": "pudelpointer",
+      "breed_name_display": "Pudelpointer",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/pudelpointer/"
+    },
+    "pug": {
+      "id": 25390,
+      "breed_name": "pug",
+      "breed_name_display": "Pug",
+      "group": "toy",
+      "rank": 32,
+      "url": "https://akc.org/dog-breeds/pug/"
+    },
+    "puli": {
+      "id": 25405,
+      "breed_name": "puli",
+      "breed_name_display": "Puli",
+      "group": "herding",
+      "rank": 159,
+      "url": "https://akc.org/dog-breeds/puli/"
+    },
+    "pumi": {
+      "id": 25420,
+      "breed_name": "pumi",
+      "breed_name_display": "Pumi",
+      "group": "herding",
+      "rank": 162,
+      "url": "https://akc.org/dog-breeds/pumi/"
+    },
+    "pyrenean-mastiff": {
+      "id": 25435,
+      "breed_name": "pyrenean-mastiff",
+      "breed_name_display": "Pyrenean Mastiff",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/pyrenean-mastiff/"
+    },
+    "pyrenean-shepherd": {
+      "id": 25437,
+      "breed_name": "pyrenean-shepherd",
+      "breed_name_display": "Pyrenean Shepherd",
+      "group": "herding",
+      "rank": 176,
+      "url": "https://akc.org/dog-breeds/pyrenean-shepherd/"
+    },
+    "rafeiro-do-alentejo": {
+      "id": 25452,
+      "breed_name": "rafeiro-do-alentejo",
+      "breed_name_display": "Rafeiro do Alentejo",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/rafeiro-do-alentejo/"
+    },
+    "rat-terrier": {
+      "id": 25453,
+      "breed_name": "rat-terrier",
+      "breed_name_display": "Rat Terrier",
+      "group": "terrier",
+      "rank": 96,
+      "url": "https://akc.org/dog-breeds/rat-terrier/"
+    },
+    "redbone-coonhound": {
+      "id": 25467,
+      "breed_name": "redbone-coonhound",
+      "breed_name_display": "Redbone Coonhound",
+      "group": "hound",
+      "rank": 143,
+      "url": "https://akc.org/dog-breeds/redbone-coonhound/"
+    },
+    "rhodesian-ridgeback": {
+      "id": 25476,
+      "breed_name": "rhodesian-ridgeback",
+      "breed_name_display": "Rhodesian Ridgeback",
+      "group": "hound",
+      "rank": 42,
+      "url": "https://akc.org/dog-breeds/rhodesian-ridgeback/"
+    },
+    "romanian-mioritic-shepherd-dog": {
+      "id": 57357,
+      "breed_name": "romanian-mioritic-shepherd-dog",
+      "breed_name_display": "Romanian Mioritic Shepherd Dog",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/romanian-mioritic-shepherd-dog/"
+    },
+    "rottweiler": {
+      "id": 25491,
+      "breed_name": "rottweiler",
+      "breed_name_display": "Rottweiler",
+      "group": "working",
+      "rank": 8,
+      "url": "https://akc.org/dog-breeds/rottweiler/"
+    },
+    "russell-terrier": {
+      "id": 25511,
+      "breed_name": "russell-terrier",
+      "breed_name_display": "Russell Terrier",
+      "group": "terrier",
+      "rank": 90,
+      "url": "https://akc.org/dog-breeds/russell-terrier/"
+    },
+    "russian-toy": {
+      "id": 25525,
+      "breed_name": "russian-toy",
+      "breed_name_display": "Russian Toy",
+      "group": "miscellaneous-class",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/russian-toy/"
+    },
+    "russian-tsvetnaya-bolonka": {
+      "id": 25527,
+      "breed_name": "russian-tsvetnaya-bolonka",
+      "breed_name_display": "Russian Tsvetnaya Bolonka",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/russian-tsvetnaya-bolonka/"
+    },
+    "saluki": {
+      "id": 25544,
+      "breed_name": "saluki",
+      "breed_name_display": "Saluki",
+      "group": "hound",
+      "rank": 125,
+      "url": "https://akc.org/dog-breeds/saluki/"
+    },
+    "samoyed": {
+      "id": 25559,
+      "breed_name": "samoyed",
+      "breed_name_display": "Samoyed",
+      "group": "working",
+      "rank": 65,
+      "url": "https://akc.org/dog-breeds/samoyed/"
+    },
+    "schapendoes": {
+      "id": 25573,
+      "breed_name": "schapendoes",
+      "breed_name_display": "Schapendoes",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/schapendoes/"
+    },
+    "schipperke": {
+      "id": 25575,
+      "breed_name": "schipperke",
+      "breed_name_display": "Schipperke",
+      "group": "non-sporting",
+      "rank": 112,
+      "url": "https://akc.org/dog-breeds/schipperke/"
+    },
+    "scottish-deerhound": {
+      "id": 25590,
+      "breed_name": "scottish-deerhound",
+      "breed_name_display": "Scottish Deerhound",
+      "group": "hound",
+      "rank": 154,
+      "url": "https://akc.org/dog-breeds/scottish-deerhound/"
+    },
+    "scottish-terrier": {
+      "id": 25604,
+      "breed_name": "scottish-terrier",
+      "breed_name_display": "Scottish Terrier",
+      "group": "terrier",
+      "rank": 58,
+      "url": "https://akc.org/dog-breeds/scottish-terrier/"
+    },
+    "sealyham-terrier": {
+      "id": 25619,
+      "breed_name": "sealyham-terrier",
+      "breed_name_display": "Sealyham Terrier",
+      "group": "terrier",
+      "rank": 155,
+      "url": "https://akc.org/dog-breeds/sealyham-terrier/"
+    },
+    "segugio-italiano": {
+      "id": 59390,
+      "breed_name": "segugio-italiano",
+      "breed_name_display": "Segugio Italiano",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/segugio-italiano/"
+    },
+    "shetland-sheepdog": {
+      "id": 25634,
+      "breed_name": "shetland-sheepdog",
+      "breed_name_display": "Shetland Sheepdog",
+      "group": "herding",
+      "rank": 24,
+      "url": "https://akc.org/dog-breeds/shetland-sheepdog/"
+    },
+    "shiba-inu": {
+      "id": 25649,
+      "breed_name": "shiba-inu",
+      "breed_name_display": "Shiba Inu",
+      "group": "non-sporting",
+      "rank": 44,
+      "url": "https://akc.org/dog-breeds/shiba-inu/"
+    },
+    "shih-tzu": {
+      "id": 25664,
+      "breed_name": "shih-tzu",
+      "breed_name_display": "Shih Tzu",
+      "group": "toy",
+      "rank": 20,
+      "url": "https://akc.org/dog-breeds/shih-tzu/"
+    },
+    "shikoku": {
+      "id": 25685,
+      "breed_name": "shikoku",
+      "breed_name_display": "Shikoku",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/shikoku/"
+    },
+    "siberian-husky": {
+      "id": 25687,
+      "breed_name": "siberian-husky",
+      "breed_name_display": "Siberian Husky",
+      "group": "working",
+      "rank": 12,
+      "url": "https://akc.org/dog-breeds/siberian-husky/"
+    },
+    "silky-terrier": {
+      "id": 25707,
+      "breed_name": "silky-terrier",
+      "breed_name_display": "Silky Terrier",
+      "group": "toy",
+      "rank": 100,
+      "url": "https://akc.org/dog-breeds/silky-terrier/"
+    },
+    "skye-terrier": {
+      "id": 25721,
+      "breed_name": "skye-terrier",
+      "breed_name_display": "Skye Terrier",
+      "group": "terrier",
+      "rank": 178,
+      "url": "https://akc.org/dog-breeds/skye-terrier/"
+    },
+    "sloughi": {
+      "id": 25735,
+      "breed_name": "sloughi",
+      "breed_name_display": "Sloughi",
+      "group": "hound",
+      "rank": 185,
+      "url": "https://akc.org/dog-breeds/sloughi/"
+    },
+    "slovakian-wirehaired-pointer": {
+      "id": 57382,
+      "breed_name": "slovakian-wirehaired-pointer",
+      "breed_name_display": "Slovakian Wirehaired Pointer",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/slovakian-wirehaired-pointer/"
+    },
+    "slovensky-cuvac": {
+      "id": 25748,
+      "breed_name": "slovensky-cuvac",
+      "breed_name_display": "Slovensky Cuvac",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/slovensky-cuvac/"
+    },
+    "slovensky-kopov": {
+      "id": 25750,
+      "breed_name": "slovensky-kopov",
+      "breed_name_display": "Slovensky Kopov",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/slovensky-kopov/"
+    },
+    "small-munsterlander-pointer": {
+      "id": 25752,
+      "breed_name": "small-munsterlander-pointer",
+      "breed_name_display": "Small Munsterlander Pointer",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/small-munsterlander-pointer/"
+    },
+    "smooth-fox-terrier": {
+      "id": 25754,
+      "breed_name": "smooth-fox-terrier",
+      "breed_name_display": "Smooth Fox Terrier",
+      "group": "terrier",
+      "rank": 124,
+      "url": "https://akc.org/dog-breeds/smooth-fox-terrier/"
+    },
+    "soft-coated-wheaten-terrier": {
+      "id": 25767,
+      "breed_name": "soft-coated-wheaten-terrier",
+      "breed_name_display": "Soft Coated Wheaten Terrier",
+      "group": "terrier",
+      "rank": 50,
+      "url": "https://akc.org/dog-breeds/soft-coated-wheaten-terrier/"
+    },
+    "spanish-mastiff": {
+      "id": 25779,
+      "breed_name": "spanish-mastiff",
+      "breed_name_display": "Spanish Mastiff",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/spanish-mastiff/"
+    },
+    "spanish-water-dog": {
+      "id": 25780,
+      "breed_name": "spanish-water-dog",
+      "breed_name_display": "Spanish Water Dog",
+      "group": "herding",
+      "rank": 162,
+      "url": "https://akc.org/dog-breeds/spanish-water-dog/"
+    },
+    "spinone-italiano": {
+      "id": 25794,
+      "breed_name": "spinone-italiano",
+      "breed_name_display": "Spinone Italiano",
+      "group": "sporting",
+      "rank": 105,
+      "url": "https://akc.org/dog-breeds/spinone-italiano/"
+    },
+    "st-bernard": {
+      "id": 25529,
+      "breed_name": "st-bernard",
+      "breed_name_display": "Saint Bernard",
+      "group": "working",
+      "rank": 49,
+      "url": "https://akc.org/dog-breeds/st-bernard/"
+    },
+    "stabyhoun": {
+      "id": 25808,
+      "breed_name": "stabyhoun",
+      "breed_name_display": "Stabyhoun",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/stabyhoun/"
+    },
+    "staffordshire-bull-terrier": {
+      "id": 25810,
+      "breed_name": "staffordshire-bull-terrier",
+      "breed_name_display": "Staffordshire Bull Terrier",
+      "group": "terrier",
+      "rank": 82,
+      "url": "https://akc.org/dog-breeds/staffordshire-bull-terrier/"
+    },
+    "standard-schnauzer": {
+      "id": 25825,
+      "breed_name": "standard-schnauzer",
+      "breed_name_display": "Standard Schnauzer",
+      "group": "working",
+      "rank": 85,
+      "url": "https://akc.org/dog-breeds/standard-schnauzer/"
+    },
+    "sussex-spaniel": {
+      "id": 25839,
+      "breed_name": "sussex-spaniel",
+      "breed_name_display": "Sussex Spaniel",
+      "group": "sporting",
+      "rank": 172,
+      "url": "https://akc.org/dog-breeds/sussex-spaniel/"
+    },
+    "swedish-lapphund": {
+      "id": 25849,
+      "breed_name": "swedish-lapphund",
+      "breed_name_display": "Swedish Lapphund",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/swedish-lapphund/"
+    },
+    "swedish-vallhund": {
+      "id": 25851,
+      "breed_name": "swedish-vallhund",
+      "breed_name_display": "Swedish Vallhund",
+      "group": "herding",
+      "rank": 163,
+      "url": "https://akc.org/dog-breeds/swedish-vallhund/"
+    },
+    "taiwan-dog": {
+      "id": 25860,
+      "breed_name": "taiwan-dog",
+      "breed_name_display": "Taiwan Dog",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/taiwan-dog/"
+    },
+    "teddy-roosevelt-terrier": {
+      "id": 25862,
+      "breed_name": "teddy-roosevelt-terrier",
+      "breed_name_display": "Teddy Roosevelt Terrier",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/teddy-roosevelt-terrier/"
+    },
+    "thai-ridgeback": {
+      "id": 25864,
+      "breed_name": "thai-ridgeback",
+      "breed_name_display": "Thai Ridgeback",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/thai-ridgeback/"
+    },
+    "tibetan-mastiff": {
+      "id": 25866,
+      "breed_name": "tibetan-mastiff",
+      "breed_name_display": "Tibetan Mastiff",
+      "group": "working",
+      "rank": 135,
+      "url": "https://akc.org/dog-breeds/tibetan-mastiff/"
+    },
+    "tibetan-spaniel": {
+      "id": 25880,
+      "breed_name": "tibetan-spaniel",
+      "breed_name_display": "Tibetan Spaniel",
+      "group": "non-sporting",
+      "rank": 118,
+      "url": "https://akc.org/dog-breeds/tibetan-spaniel/"
+    },
+    "tibetan-terrier": {
+      "id": 25894,
+      "breed_name": "tibetan-terrier",
+      "breed_name_display": "Tibetan Terrier",
+      "group": "non-sporting",
+      "rank": 91,
+      "url": "https://akc.org/dog-breeds/tibetan-terrier/"
+    },
+    "tornjak": {
+      "id": 25909,
+      "breed_name": "tornjak",
+      "breed_name_display": "Tornjak",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/tornjak/"
+    },
+    "tosa": {
+      "id": 25911,
+      "breed_name": "tosa",
+      "breed_name_display": "Tosa",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/tosa/"
+    },
+    "toy-fox-terrier": {
+      "id": 25912,
+      "breed_name": "toy-fox-terrier",
+      "breed_name_display": "Toy Fox Terrier",
+      "group": "toy",
+      "rank": 116,
+      "url": "https://akc.org/dog-breeds/toy-fox-terrier/"
+    },
+    "transylvanian-hound": {
+      "id": 25926,
+      "breed_name": "transylvanian-hound",
+      "breed_name_display": "Transylvanian Hound",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/transylvanian-hound/"
+    },
+    "treeing-tennessee-brindle": {
+      "id": 25928,
+      "breed_name": "treeing-tennessee-brindle",
+      "breed_name_display": "Treeing Tennessee Brindle",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/treeing-tennessee-brindle/"
+    },
+    "treeing-walker-coonhound": {
+      "id": 25930,
+      "breed_name": "treeing-walker-coonhound",
+      "breed_name_display": "Treeing Walker Coonhound",
+      "group": "hound",
+      "rank": 137,
+      "url": "https://akc.org/dog-breeds/treeing-walker-coonhound/"
+    },
+    "vizsla": {
+      "id": 25939,
+      "breed_name": "vizsla",
+      "breed_name_display": "Vizsla",
+      "group": "sporting",
+      "rank": 31,
+      "url": "https://akc.org/dog-breeds/vizsla/"
+    },
+    "weimaraner": {
+      "id": 25953,
+      "breed_name": "weimaraner",
+      "breed_name_display": "Weimaraner",
+      "group": "sporting",
+      "rank": 34,
+      "url": "https://akc.org/dog-breeds/weimaraner/"
+    },
+    "welsh-springer-spaniel": {
+      "id": 25967,
+      "breed_name": "welsh-springer-spaniel",
+      "breed_name_display": "Welsh Springer Spaniel",
+      "group": "sporting",
+      "rank": 123,
+      "url": "https://akc.org/dog-breeds/welsh-springer-spaniel/"
+    },
+    "welsh-terrier": {
+      "id": 25977,
+      "breed_name": "welsh-terrier",
+      "breed_name_display": "Welsh Terrier",
+      "group": "terrier",
+      "rank": 111,
+      "url": "https://akc.org/dog-breeds/welsh-terrier/"
+    },
+    "west-highland-white-terrier": {
+      "id": 25991,
+      "breed_name": "west-highland-white-terrier",
+      "breed_name_display": "West Highland White Terrier",
+      "group": "terrier",
+      "rank": 41,
+      "url": "https://akc.org/dog-breeds/west-highland-white-terrier/"
+    },
+    "whippet": {
+      "id": 26002,
+      "breed_name": "whippet",
+      "breed_name_display": "Whippet",
+      "group": "hound",
+      "rank": 60,
+      "url": "https://akc.org/dog-breeds/whippet/"
+    },
+    "wire-fox-terrier": {
+      "id": 26018,
+      "breed_name": "wire-fox-terrier",
+      "breed_name_display": "Wire Fox Terrier",
+      "group": "terrier",
+      "rank": 101,
+      "url": "https://akc.org/dog-breeds/wire-fox-terrier/"
+    },
+    "wirehaired-pointing-griffon": {
+      "id": 26043,
+      "breed_name": "wirehaired-pointing-griffon",
+      "breed_name_display": "Wirehaired Pointing Griffon",
+      "group": "sporting",
+      "rank": 66,
+      "url": "https://akc.org/dog-breeds/wirehaired-pointing-griffon/"
+    },
+    "wirehaired-vizsla": {
+      "id": 26058,
+      "breed_name": "wirehaired-vizsla",
+      "breed_name_display": "Wirehaired Vizsla",
+      "group": "sporting",
+      "rank": 157,
+      "url": "https://akc.org/dog-breeds/wirehaired-vizsla/"
+    },
+    "working-kelpie": {
+      "id": 26073,
+      "breed_name": "working-kelpie",
+      "breed_name_display": "Working Kelpie",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/working-kelpie/"
+    },
+    "xoloitzcuintli": {
+      "id": 26075,
+      "breed_name": "xoloitzcuintli",
+      "breed_name_display": "Xoloitzcuintli",
+      "group": "non-sporting",
+      "rank": 139,
+      "url": "https://akc.org/dog-breeds/xoloitzcuintli/"
+    },
+    "yakutian-laika": {
+      "id": 26089,
+      "breed_name": "yakutian-laika",
+      "breed_name_display": "Yakutian Laika",
+      "group": "foundation-stock-service",
+      "rank": 0,
+      "url": "https://akc.org/dog-breeds/yakutian-laika/"
+    },
+    "yorkshire-terrier": {
+      "id": 26092,
+      "breed_name": "yorkshire-terrier",
+      "breed_name_display": "Yorkshire Terrier",
+      "group": "toy",
+      "rank": 9,
+      "url": "https://akc.org/dog-breeds/yorkshire-terrier/"
+    }
+}
